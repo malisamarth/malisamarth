@@ -1,7 +1,7 @@
 # Hi 👋, I'm Samarth  
 
-🌐 My website: [samarth.dev]([https://malisamarth.github.io/])  
-💬 Discord: samarth#1234  
+🌐 My website: https://malisamarth.github.io/
+💬 Email: samarthmali880@gmail.com
 📍 Native: Pune, India  
 ⚡ Fun fact: I love building games with Unity  
 
