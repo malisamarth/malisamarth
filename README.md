@@ -6,6 +6,6 @@
 
 📍 Native: Pune, India  
 
-⚡ Fun fact: I love building games with Unity  
+![Play my Unity Game!!](https://debuggeddream.itch.io/block-breaker)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=SamarthMali&color=blue)
