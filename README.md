@@ -2,7 +2,7 @@
 
 🌐 My website: [click here](https://malisamarth.github.io/)
 
-🎮 Play my Game: [click here](https://itch.io/profile/debuggeddream)
+🎮 Play my Games: [click here](https://itch.io/profile/debuggeddream)
 
 💬 Email: samarthmali880@gmail.com
 
